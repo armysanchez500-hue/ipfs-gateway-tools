@@ -101,4 +101,4 @@ const convertedGatewayUrl = ipfsGatewayTools.convertToDesiredGateway(
 
 Feel free to file a github issue or email us at team@pinata.cloud
 
-We'd love to hear from you!
+We'd love to hear from you! armysanchez500@gmail.com
